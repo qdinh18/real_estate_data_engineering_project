@@ -6,13 +6,13 @@ This project implements a full ETL pipeline for real estate data using **Apache 
 
 ```plaintext
 airflow_dag/           # Contains the Airflow DAG for orchestrating the ETL workflow
-│   ├── dag.py
-│   ├── data_stage/        # Stores raw and processed data outputs
-│   ├── load_to_postgresql/ # Handles PostgreSQL table creation and data loading
-│   ├── load_to_redshift/   # Loads data from S3 to Redshift
-│   ├── load_to_s3/         # Uploads processed data to AWS S3
-│   ├── transformation/      # Contains transformation logic for cleaning and processing data
-│   ├── web_scraping/        # Contains Scrapy web scraping logic to extract data
+├── dag.py
+├── data_stage/        # Stores raw and processed data outputs
+├── load_to_postgresql/ # Handles PostgreSQL table creation and data loading
+├── load_to_redshift/   # Loads data from S3 to Redshift
+├── load_to_s3/         # Uploads processed data to AWS S3
+├── transformation/      # Contains transformation logic for cleaning and processing data
+├── web_scraping/        # Contains Scrapy web scraping logic to extract data
 .env                   # Environment configuration (ignored in Git)
 docker-compose.yaml    # Docker Compose configuration
 requirements.txt       # Python dependencies for the project
