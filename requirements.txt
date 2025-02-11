@@ -1,0 +1,5 @@
+scrapy
+curl_cffi
+pandas
+numpy
+psycopg2-binary

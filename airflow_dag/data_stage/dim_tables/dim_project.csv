@@ -1,0 +1,331 @@
+project_id,update_date,project_name,investor,project_area_range,project_status,address,number_of_apartments,number_of_buildings
+1,2025-02-11,Masteri Thảo Điền,Masterise Homes,45-100 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh",3021.0,5.0
+2,2025-02-11,Feliz En Vista,CapitaLand Development (Việt Nam),,Đã bàn giao," Đường Phan Văn Đáng, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1127.0,4.0
+3,2025-02-11,Lumiere Riverside,Công ty CP Ðịa ốc Thảo Ðiền,,Đang mở bán," Đường Võ Nguyên Giáp, Phường An Phú, Quận 2, Hồ Chí Minh",,2.0
+4,2025-02-11,Eaton Park,Công ty Cổ phần Gamuda Land Việt Nam,38-98 m²,Đang mở bán," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",2000.0,6.0
+5,2025-02-11,Lumiere Riverside,Công ty CP Ðịa ốc Thảo Ðiền,,Đang mở bán," Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh",,2.0
+6,2025-02-11,Diamond Island,Kusto Home,,Đã bàn giao," Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",1275.0,6.0
+7,2025-02-11,Diamond Island,Kusto Home,,Đã bàn giao," Đường 104, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",1275.0,6.0
+8,2025-02-11,Masteri Grand View,Masterise Homes,56-372 m²,Đang cập nhật tiến độ," Đường Liên Phường, Phường An Phú, Quận 2, Hồ Chí Minh",616.0,2.0
+9,2025-02-11,Lumiere Riverside,Công ty CP Ðịa ốc Thảo Ðiền,,Đang mở bán," Võ Nguyên Giáp, An Phú, Quận 2, Hồ Chí Minh",,2.0
+10,2025-02-11,The Opera Residence,Đang cập nhật,,Đang mở bán," Đường Đại Lộ Vòng Cung, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",646.0,2.0
+11,2025-02-11,The River Thủ Thiêm,Công Ty Cổ phần Phát triển Bất động sản Refico,57-185 m²,Đã bàn giao," Đường Nguyễn Cơ Thạch, Phường An Khánh, Quận 2, Hồ Chí Minh",525.0,3.0
+12,2025-02-11,The Global City,Masterise Homes,,Đang mở bán," Đường Liên Phường, Phường An Phú, Quận 2, Hồ Chí Minh",,
+13,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",744.0,2.0
+14,2025-02-11,Căn hộ Precia Quận 2,Công ty CP Đầu tư Bất Động Sản Rio Land,49-101 m²,Bàn giao tháng 4/2022," Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh",333.0,1.0
+15,2025-02-11,Thảo Điền Green,Công ty Cổ phần Đầu tư Bất động sản SIC,54-400 m²,Bàn giao ngày 2/8/2023," 192 Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",204.0,1.0
+16,2025-02-11,Empire City Thủ Thiêm,Công ty TNHH Keppel Land Việt Nam,,"Đã bàn giao phân khu Linden, Tilia, Cove"," Đường Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",,
+17,2025-02-11,Vista Verde,CapitaLand Development (Việt Nam),45-318 m²,Đã bàn giao," Đường Phan Văn Đáng, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1152.0,4.0
+18,2025-02-11,The River Thủ Thiêm,Công Ty Cổ phần Phát triển Bất động sản Refico,57-185 m²,Đã bàn giao," Đường Trần Bạch Đằng, Phường An Khánh, Quận 2, Hồ Chí Minh",525.0,3.0
+19,2025-02-11,Centana Thủ Thiêm,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Bàn giao tháng 12/2018," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",618.0,2.0
+20,2025-02-11,Eaton Park,Công ty Cổ phần Gamuda Land Việt Nam,38-98 m²,Đang mở bán," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh.",2000.0,6.0
+21,2025-02-11,Diamond Island,Kusto Home,,Đã bàn giao," Phố Trần Quý Kiên, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",1275.0,6.0
+22,2025-02-11,One Verandah Mapletree,Đang cập nhật,55-343 m²,Đã bàn giao," Đường Bát Nàn, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",799.0,
+23,2025-02-11,The Opera Residence,Đang cập nhật,,Đang mở bán," Đại Lộ Vòng Cung, Thủ Thiêm, Quận 2, Hồ Chí Minh",646.0,2.0
+24,2025-02-11,Thảo Điền Green,Công ty Cổ phần Đầu tư Bất động sản SIC,54-400 m²,Bàn giao ngày 2/8/2023," Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",204.0,1.0
+25,2025-02-11,The Metropole Thủ Thiêm,Công ty CP bất động sản SơnKim Land,,Đang bán giai đoạn 4 - The OpusK," Đường Trần Bạch Đằng, Phường An Khánh, Quận 2, Hồ Chí Minh",1300.0,5.0
+26,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2, Hồ Chí Minh",744.0,2.0
+27,2025-02-11,De Capella,Công ty CP Quốc Cường Gia Lai,51-102 m²,Đã bàn giao," Phố Lương Định Của, Phường An Khánh, Quận 2, Hồ Chí Minh",380.0,2.0
+28,2025-02-11,The Ascent,Công ty CP Đầu tư Địa ốc Tiến Phát,67-99 m²,đã bàn giao," Đường Quốc Hương, Phường Thảo Điền, Quận 2, Hồ Chí Minh",280.0,2.0
+29,2025-02-11,Vista Verde,CapitaLand Development (Việt Nam),45-318 m²,Đã bàn giao," Đường Phan Văn Đáng, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",1152.0,4.0
+30,2025-02-11,Estella Heights,Công ty TNHH Keppel Land Việt Nam,,Đã bàn giao," Đường Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh",872.0,4.0
+31,2025-02-11,New City Thủ Thiêm,Công ty TNHH Xây Dựng Thương mại Thuận Việt,45-300 m²,Đã bàn giao," Đường Mai Chí Thọ, Phường Bình Khánh, Quận 2, Hồ Chí Minh",1229.0,4.0
+32,2025-02-11,Lexington Residence,Novaland Group,,Bàn giao tháng 3/2016," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",1312.0,5.0
+33,2025-02-11,Thủ Thiêm Green House,Đang cập nhật,36-58 m²,4/2023: Cất nóc," Võ Chí Công,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1040.0,
+34,2025-02-11,Thảo Điền Green,Công ty Cổ phần Đầu tư Bất động sản SIC,54-400 m²,Bàn giao ngày 2/8/2023," Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Hồ Chí Minh",204.0,1.0
+35,2025-02-11,Zeit River Thủ Thiêm,Công ty GS Engineering & Construction,50-140 m²,23/7/2023 mở bán tiếp GĐ2," Phường An Khánh, Quận 2, Hồ Chí Minh",300.0,2.0
+36,2025-02-11,Empire City Thủ Thiêm,Công ty TNHH Keppel Land Việt Nam,,"Đã bàn giao phân khu Linden, Tilia, Cove"," Mai Chí Thọ, Thủ Thiêm, Quận 2, Hồ Chí Minh",,
+37,2025-02-11,Masteri Thảo Điền,Masterise Homes,45-100 m²,Đã bàn giao," Xa Lộ Hà Nội, Thảo Điền, Quận 2, Hồ Chí Minh",3021.0,5.0
+38,2025-02-11,The Opera Residence,Đang cập nhật,,Đang mở bán," Đường Đại Lộ Vòng Cung, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh.",646.0,2.0
+39,2025-02-11,Thảo Điền Green,Công ty Cổ phần Đầu tư Bất động sản SIC,54-400 m²,Bàn giao ngày 2/8/2023," 192, Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",204.0,1.0
+40,2025-02-11,Vista Verde,CapitaLand Development (Việt Nam),45-318 m²,Đã bàn giao," Đường Đồng Văn Cống, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1152.0,4.0
+41,2025-02-11,Vista Verde,CapitaLand Development (Việt Nam),45-318 m²,Đã bàn giao," Đường Nguyễn Thanh Sơn, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1152.0,4.0
+42,2025-02-11,La Astoria,Công ty CP Đầu tư Xây dựng An Gia Hưng,,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",622.0,3.0
+43,2025-02-11,The Sun Avenue,Novaland Group,,Đã bàn giao," Mai Chí Thọ, An Phú, Quận 2, Hồ Chí Minh",3000.0,8.0
+44,2025-02-11,Q2 Thảo Điền,Đang cập nhật,,Bàn giao năm 2021," Đường Võ Trường Toản, Phường Thảo Điền, Quận 2, Hồ Chí Minh",,
+45,2025-02-11,Thủ Thiêm Green House,Đang cập nhật,36-58 m²,4/2023: Cất nóc," Đường Võ Chí Công, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1040.0,
+46,2025-02-11,The Sun Avenue,Novaland Group,,Đã bàn giao," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",3000.0,8.0
+47,2025-02-11,The Galleria Residence,Công ty CP bất động sản SơnKim Land,49-345 m²,Đã bàn giao 3 tháp căn hộ cao 12 tầng," Đường Đại Lộ Vòng Cung, Phường An Khánh, Quận 2, Hồ Chí Minh",456.0,
+48,2025-02-11,Tropic Garden,Novaland Group,,Đã bàn giao," 66, Thảo Điền, Quận 2, Hồ Chí Minh",1008.0,5.0
+49,2025-02-11,Hoàng Anh River View,Công ty CP Hoàng Anh Gia Lai,138 - 177 m²,Đã bàn giao," Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Hồ Chí Minh",580.0,3.0
+50,2025-02-11,Q2 Thảo Điền,Đang cập nhật,,Bàn giao năm 2021," 21, Đường Võ Trường Toản, Phường Thảo Điền, Quận 2, Hồ Chí Minh",,
+51,2025-02-11,Centana Thủ Thiêm,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Bàn giao tháng 12/2018," Mai Chí Thọ, An Phú, Quận 2, Hồ Chí Minh",618.0,2.0
+52,2025-02-11,New City Thủ Thiêm,Công ty TNHH Xây Dựng Thương mại Thuận Việt,45-300 m²,Đã bàn giao," 17, Đường Mai Chí Thọ, Phường Bình Khánh, Quận 2, Hồ Chí Minh",1229.0,4.0
+53,2025-02-11,New City Thủ Thiêm,Công ty TNHH Xây Dựng Thương mại Thuận Việt,45-300 m²,Đã bàn giao," 17, Đường Mai Chí Thọ, Phường An Khánh, Quận 2, Hồ Chí Minh",1229.0,4.0
+54,2025-02-11,Căn hộ DEFINE,CapitaLand Development (Việt Nam),194-287 m²,Sắp bàn giao," Đường Số 60 - TML, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",88.0,1.0
+55,2025-02-11,Masteri An Phú,Masterise Homes,,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh",900.0,2.0
+56,2025-02-11,Sarimi Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,83-283 m²,Đã bàn giao," Phường An Lợi Đông, Quận 2, Hồ Chí Minh",368.0,
+57,2025-02-11,Căn hộ Citi Alto,Công ty Cổ phần Kiến Á,,Đang mở bán," Đường Nguyễn Thị Định, Phường Cát Lái, Quận 2, Hồ Chí Minh",675.0,
+58,2025-02-11,Căn hộ D’Lusso,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Đã bàn giao," Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh",600.0,
+59,2025-02-11,The Metropole Thủ Thiêm,Công ty CP bất động sản SơnKim Land,,Đang bán giai đoạn 4 - The OpusK," Phường An Khánh, Quận 2, Hồ Chí Minh",1300.0,5.0
+60,2025-02-11,La Astoria,Công ty CP Đầu tư Xây dựng An Gia Hưng,,Đã bàn giao," 383 Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",622.0,3.0
+61,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," 403A Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",744.0,2.0
+62,2025-02-11,Lumiere Riverside,Công ty CP Ðịa ốc Thảo Ðiền,,Đang mở bán," 259, Đường Võ Nguyên Giáp, Phường An Phú, Quận 2, Hồ Chí Minh",,2.0
+63,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," 403A, Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",744.0,2.0
+64,2025-02-11,Blue Sky Tower,Công ty CP Tư vấn -Thương mại - Dịch vụ Địa ốc Hoàng Quân,47-117 m²,Đã bàn giao," Đường A4, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",260.0,
+65,2025-02-11,Q2 Thảo Điền,Đang cập nhật,,Bàn giao năm 2021," Đường Võ Trường Toản, Phường Thảo Điền, Quận 2, Hồ Chí Minh.",,
+66,2025-02-11,The Vista An Phú,CapitaLand Development (Việt Nam),101 - 221 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh",850.0,5.0
+67,2025-02-11,New City Thủ Thiêm,Công ty TNHH Xây Dựng Thương mại Thuận Việt,45-300 m²,Đã bàn giao," Mai Chí Thọ, Bình Khánh, Quận 2, Hồ Chí Minh",1229.0,4.0
+68,2025-02-11,The Estella,Đang cập nhật,,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh",1500.0,4.0
+69,2025-02-11,The Krista,CapitaLand Development (Việt Nam),70-152 m²,Đã bàn giao," Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2, Hồ Chí Minh",344.0,2.0
+70,2025-02-11,La Astoria,Công ty CP Đầu tư Xây dựng An Gia Hưng,,Đã bàn giao," Nguyễn Duy Trinh, Bình Trưng Tây, Quận 2, Hồ Chí Minh",622.0,3.0
+71,2025-02-11,Lexington Residence,Novaland Group,,Bàn giao tháng 3/2016," Đường Mai Chí Thọ, Phường An Phú, TP. Thủ Đức, Hồ Chí Minh",1312.0,5.0
+72,2025-02-11,Imperia An Phú,Công ty TNHH Đầu tư & Dịch vụ Kiến Á (Inveskia),95-398 m²,Đã bàn giao," Phường An Phú, Quận 2, Hồ Chí Minh",700.0,
+73,2025-02-11,The CBD Premium Home,Công ty CP Xây dựng Phước Thành,64-80 m²,Đã bàn giao," Đường Đồng Văn Cống, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",620.0,3.0
+74,2025-02-11,The Vista An Phú,CapitaLand Development (Việt Nam),101 - 221 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh.",850.0,5.0
+75,2025-02-11,Thảo Điền Pearl,Công ty CP tập đoàn S.S.G,,Đã bàn giao," Đường Quốc Hương, Phường Thảo Điền, Quận 2, Hồ Chí Minh",,
+76,2025-02-11,Estella Heights,Công ty TNHH Keppel Land Việt Nam,,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh",872.0,4.0
+77,2025-02-11,Cantavil An Phú - Cantavil Premier,Công ty Cổ phần Daewon,75-150 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh",390.0,
+78,2025-02-11,Imperia An Phú,Công ty TNHH Đầu tư & Dịch vụ Kiến Á (Inveskia),95-398 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh",700.0,
+79,2025-02-11,The Global City,Masterise Homes,,Đang mở bán," Đường Đỗ Xuân Hợp, Phường An Phú, Quận 2, Hồ Chí Minh",,
+80,2025-02-11,Lumiere Riverside,Công ty CP Ðịa ốc Thảo Ðiền,,Đang mở bán," Đường Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh",,2.0
+81,2025-02-11,Lexington Residence,Novaland Group,,Bàn giao tháng 3/2016," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh.",1312.0,5.0
+82,2025-02-11,Vista Verde,CapitaLand Development (Việt Nam),45-318 m²,Đã bàn giao," Phan Văn Đáng,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1152.0,4.0
+83,2025-02-11,De Capella,Công ty CP Quốc Cường Gia Lai,51-102 m²,Đã bàn giao," Lương Định Của, An Khánh, Quận 2, Hồ Chí Minh",380.0,2.0
+84,2025-02-11,The Nassim Thảo Điền,Công ty CP bất động sản SơnKim Land,,Đã bàn giao," Đường 11, Phường Thảo Điền, Quận 2, Hồ Chí Minh",238.0,4.0
+85,2025-02-11,Sarina Condominium,Đang cập nhật,,Đã bàn giao," Đường Mai Chí Thọ, Phường An Lợi Đông, Quận 2, Hồ Chí Minh",,
+86,2025-02-11,The CBD Premium Home,Công ty CP Xây dựng Phước Thành,64-80 m²,Đã bàn giao," 125, Đường Đồng Văn Cống, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",620.0,3.0
+87,2025-02-11,The River Thủ Thiêm,Công Ty Cổ phần Phát triển Bất động sản Refico,57-185 m²,Đã bàn giao," Nguyễn Cơ Thạch, An Khánh, Quận 2, Hồ Chí Minh",525.0,3.0
+88,2025-02-11,Victoria Village,Novaland Group,,Đang mở bán," Đường Đồng Văn Cống, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1136.0,
+89,2025-02-11,Xi Riverview Palace,Công ty GS E & C,,Đã bàn giao," Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",270.0,3.0
+90,2025-02-11,De Capella,Công ty CP Quốc Cường Gia Lai,51-102 m²,Đã bàn giao," Phố Lương Định Của, Phường An Khánh, Quận 2, Hồ Chí Minh.",380.0,2.0
+91,2025-02-11,Sarica Condominium,Công ty CP Đầu tư Địa ốc Đại Quang Minh,101-147 m²,đã bàn giao," Đường Nguyễn Cơ Thạch, Phường An Lợi Đông, Quận 2, Hồ Chí Minh.",175.0,
+92,2025-02-11,Cao ốc Thịnh Vượng,Công ty CP Đầu tư - Kinh Doanh Nhà (INTRESCO),,Đã bàn giao," Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",,
+93,2025-02-11,Masteri An Phú,Masterise Homes,,Đã bàn giao," Xa Lộ Hà Nội, Thảo Điền, Quận 2, Hồ Chí Minh",900.0,2.0
+94,2025-02-11,The Vista An Phú,CapitaLand Development (Việt Nam),101 - 221 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường An Phú,  Quận 2, Hồ Chí Minh",850.0,5.0
+95,2025-02-11,Căn hộ Citi Grand,Công ty Cổ phần Kiến Á,,Đang mở bán," Đường Nguyễn Thị Định, Phường Cát Lái, Quận 2, Hồ Chí Minh",666.0,2.0
+96,2025-02-11,Feliz En Vista,CapitaLand Development (Việt Nam),,Đã bàn giao," Phan Văn Đáng,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1127.0,4.0
+97,2025-02-11,Masteri Grand View,Masterise Homes,56-372 m²,Đang cập nhật tiến độ," Đường Đỗ Xuân Hợp, Phường An Phú, Quận 2, Hồ Chí Minh",616.0,2.0
+98,2025-02-11,Blue Sky Tower,Công ty CP Tư vấn -Thương mại - Dịch vụ Địa ốc Hoàng Quân,47-117 m²,Đã bàn giao," A4, Bình Trưng Đông, Quận 2, Hồ Chí Minh",260.0,
+99,2025-02-11,The Krista,CapitaLand Development (Việt Nam),70-152 m²,Đã bàn giao," 537, Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",344.0,2.0
+100,2025-02-11,The Krista,CapitaLand Development (Việt Nam),70-152 m²,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",344.0,2.0
+101,2025-02-11,Tái định cư Bình Khánh,Công ty TNHH Keppel Land Việt Nam,51-84 m²,Đã bàn giao," Đường Mai Chí Thọ, Phường Bình Khánh, Quận 2, Hồ Chí Minh",1844.0,
+102,2025-02-11,Citi Esto,Công ty Cổ phần Kiến Á,55-103 m²,Đã bàn giao," Nguyễn Thị Định, Cát Lái, Quận 2, Hồ Chí Minh",528.0,2.0
+103,2025-02-11,Centana Thủ Thiêm,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Bàn giao tháng 12/2018," 36, Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",618.0,2.0
+104,2025-02-11,Centana Thủ Thiêm,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Bàn giao tháng 12/2018," số 36, Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",618.0,2.0
+105,2025-02-11,Gateway Thảo Điền,Công ty CP bất động sản SơnKim Land,48-96 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh",546.0,4.0
+106,2025-02-11,"Khu dân cư Phú Nhuận 1,2",Công ty TNHH MTV Xây dựng và Kinh doanh Nhà Phú Nhuận,,Đang cập nhật tiến độ,"2, Đường Nguyễn Văn Kỉnh, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",,
+107,2025-02-11,Sala Đại Quang Minh,Công ty CP Đầu tư Địa ốc Đại Quang Minh,,Đã bàn giao," Mai Chí Thọ, An Lợi Đông, Quận 2, Hồ Chí Minh",,
+108,2025-02-11,Feliz En Vista,CapitaLand Development (Việt Nam),,Đã bàn giao," Đường Đồng Văn Cống, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1127.0,4.0
+109,2025-02-11,Căn hộ D’Lusso,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Đã bàn giao," Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh.",600.0,
+110,2025-02-11,Blue Sky Tower,Công ty CP Tư vấn -Thương mại - Dịch vụ Địa ốc Hoàng Quân,47-117 m²,Đã bàn giao," Đường A4, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh.",260.0,
+111,2025-02-11,Paris Hoàng Kim,Đang cập nhật,57-99 m²,5/2023: Đang bán 100 căn cuối," Phố Lương Định Của, Phường Bình Khánh, Quận 2, Hồ Chí Minh",417.0,2.0
+112,2025-02-11,Victoria Village,Novaland Group,,Đang mở bán," Đường Trương Văn Bang, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1136.0,
+113,2025-02-11,Thủ Thiêm Xanh,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",,
+114,2025-02-11,Sadora Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,,Đã bàn giao," Đường Mai Chí Thọ, Phường An Lợi Đông, Quận 2, Hồ Chí Minh",,
+115,2025-02-11,Sadora Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,,Đã bàn giao," Đường Mai Chí Thọ, Phường Bình Khánh, Quận 2, Hồ Chí Minh",,
+116,2025-02-11,Xi Riverview Palace,Công ty GS E & C,,Đã bàn giao," Phường An Phú, Quận 2, Hồ Chí Minh",270.0,3.0
+117,2025-02-11,D'Edge Thảo Điền,CapitaLand Development (Việt Nam),63-256 m²,Đã bàn giao," Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",273.0,2.0
+118,2025-02-11,Căn hộ D’Lusso,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Đã bàn giao," Nguyễn Thị Định, An Phú, Quận 2, Hồ Chí Minh",600.0,
+119,2025-02-11,La Astoria,Công ty CP Đầu tư Xây dựng An Gia Hưng,,Đã bàn giao," 383, Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",622.0,3.0
+120,2025-02-11,The Crest Residence,Đang cập nhật,,Đã bán hết," Đường Đại Lộ Vòng Cung, Phường An Khánh, Quận 2, Hồ Chí Minh.",468.0,3.0
+121,2025-02-11,Thảo Điền Green,Công ty Cổ phần Đầu tư Bất động sản SIC,54-400 m²,Bàn giao ngày 2/8/2023," Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh.",204.0,1.0
+122,2025-02-11,New City Thủ Thiêm,Công ty TNHH Xây Dựng Thương mại Thuận Việt,45-300 m²,Đã bàn giao," Đường Mai Chí Thọ, Phường Bình Khánh, Quận 2, Hồ Chí Minh.",1229.0,4.0
+123,2025-02-11,Gateway Thảo Điền,Công ty CP bất động sản SơnKim Land,48-96 m²,Đã bàn giao," Đường Võ Nguyên Giáp, Phường Thảo Điền, Quận 2, Hồ Chí Minh",546.0,4.0
+124,2025-02-11,The OpusK Residence,Đang cập nhật,55-144 m²,Mở bán đợt 1: 13/11/2022," Phố Lương Định Của, Phường An Khánh, Quận 2, Hồ Chí Minh",300.0,2.0
+125,2025-02-11,Thủ Thiêm Sky,Công ty CP Đầu tư Thủ Thiêm,40-69 m²,Đã bàn giao," Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",304.0,2.0
+126,2025-02-11,The Global City,Masterise Homes,,Đang mở bán," Phường An Phú, Quận 2, Hồ Chí Minh",,
+127,2025-02-11,Thủ Thiêm Lakeview,Công ty CP đầu tư hạ tầng kỹ thuật TP. Hồ Chí Minh,88-162 m²,Đã bàn giao," Đường Tố Hữu, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",4500.0,
+128,2025-02-11,Masteri Grand View,Masterise Homes,56-372 m²,Đang cập nhật tiến độ," Liên Phường, An Phú, Quận 2, Hồ Chí Minh",616.0,2.0
+129,2025-02-11,Thảo Điền Pearl,Công ty CP tập đoàn S.S.G,,Đã bàn giao," Quốc Hương, Thảo Điền, Quận 2, Hồ Chí Minh",,
+130,2025-02-11,Lumiere Riverside,Công ty CP Ðịa ốc Thảo Ðiền,,Đang mở bán," 275, Đường Võ Nguyên Giáp, Phường An Phú, Quận 2, Hồ Chí Minh",,2.0
+131,2025-02-11,Xi Riverview Palace,Công ty GS E & C,,Đã bàn giao," Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Hồ Chí Minh",270.0,3.0
+132,2025-02-11,Waterina Suites,Đang cập nhật,,Đã bàn giao," Đường Tạ Hiện, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",,
+133,2025-02-11,,,,," Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",,
+134,2025-02-11,Q2 Thảo Điền,Đang cập nhật,,Bàn giao năm 2021," Võ Trường Toản, Thảo Điền, Quận 2, Hồ Chí Minh",,
+135,2025-02-11,Chung cư Bộ Công An,Công ty CP Đầu tư Phú Cường,,Đã bàn giao," Đường 3, Phường Bình An, Quận 2, Hồ Chí Minh",1274.0,3.0
+136,2025-02-11,The Vista An Phú,CapitaLand Development (Việt Nam),101 - 221 m²,Đã bàn giao," Xa Lộ Hà Nội, An Phú, Quận 2, Hồ Chí Minh",850.0,5.0
+137,2025-02-11,Lexington Residence,Novaland Group,,Bàn giao tháng 3/2016," 67 Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",1312.0,5.0
+138,2025-02-11,Zeit River Thủ Thiêm,Công ty GS Engineering & Construction,50-140 m²,23/7/2023 mở bán tiếp GĐ2," An Khánh, Quận 2, Hồ Chí Minh",300.0,2.0
+139,2025-02-11,Hoàng Anh River View,Công ty CP Hoàng Anh Gia Lai,138 - 177 m²,Đã bàn giao," Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh.",580.0,3.0
+140,2025-02-11,The Krista,CapitaLand Development (Việt Nam),70-152 m²,Đã bàn giao," 537, Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh.",344.0,2.0
+141,2025-02-11,The Global City,Masterise Homes,,Đang mở bán," An Phú, Quận 2, Hồ Chí Minh",,
+142,2025-02-11,Cao ốc An Khang,Công ty CP Đầu tư - Kinh Doanh Nhà (INTRESCO),,Đã bàn giao," Đường Số 19, Phường An Phú, Quận 2, Hồ Chí Minh",288.0,2.0
+143,2025-02-11,Cantavil An Phú - Cantavil Premier,Công ty Cổ phần Daewon,75-150 m²,Đã bàn giao," Đường 25, Phường An Phú, Quận 2, Hồ Chí Minh",390.0,
+144,2025-02-11,Căn hộ DEFINE,CapitaLand Development (Việt Nam),194-287 m²,Sắp bàn giao," Số 60 - TML,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",88.0,1.0
+145,2025-02-11,Thảo Điền Pearl,Công ty CP tập đoàn S.S.G,,Đã bàn giao," Đường Quốc Hương, Phường Thảo Điền, Quận 2, Hồ Chí Minh.",,
+146,2025-02-11,Zeit River Thủ Thiêm,Công ty GS Engineering & Construction,50-140 m²,23/7/2023 mở bán tiếp GĐ2," Đường Nguyễn Cơ Thạch, Phường An Khánh, Quận 2, Hồ Chí Minh",300.0,2.0
+147,2025-02-11,Cantavil An Phú - Cantavil Premier,Công ty Cổ phần Daewon,75-150 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh.",390.0,
+148,2025-02-11,The Galleria Residence,Công ty CP bất động sản SơnKim Land,49-345 m²,Đã bàn giao 3 tháp căn hộ cao 12 tầng," Đại Lộ Vòng Cung, An Khánh, Quận 2, Hồ Chí Minh",456.0,
+149,2025-02-11,Zeit River Thủ Thiêm,Công ty GS Engineering & Construction,50-140 m²,23/7/2023 mở bán tiếp GĐ2," Đường Nguyễn Cơ Thạch, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh.",300.0,2.0
+150,2025-02-11,Victoria Village,Novaland Group,,Đang mở bán," Trương Văn Bang,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1136.0,
+151,2025-02-11,Căn hộ Precia Quận 2,Công ty CP Đầu tư Bất Động Sản Rio Land,49-101 m²,Bàn giao tháng 4/2022," Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh.",333.0,1.0
+152,2025-02-11,Citi Esto,Công ty Cổ phần Kiến Á,55-103 m²,Đã bàn giao," Đường Nguyễn Thị Định, Phường Cát Lái, Quận 2, Hồ Chí Minh",528.0,2.0
+153,2025-02-11,Citi Soho,Công ty CP Kiến Á,56-60 m²,Bàn giao năm 2019," Phường Cát Lái, Quận 2, Hồ Chí Minh",781.0,
+154,2025-02-11,Sadora Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,,Đã bàn giao," Mai Chí Thọ, An Lợi Đông, Quận 2, Hồ Chí Minh",,
+155,2025-02-11,Sarimi Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,83-283 m²,Đã bàn giao," Đường Nguyễn Cơ Thạch, Phường An Lợi Đông, Quận 2, Hồ Chí Minh",368.0,
+156,2025-02-11,Căn hộ D’Lusso,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Đã bàn giao," 9, Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh",600.0,
+157,2025-02-11,Zeit River Thủ Thiêm,Công ty GS Engineering & Construction,50-140 m²,23/7/2023 mở bán tiếp GĐ2," Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",300.0,2.0
+158,2025-02-11,Citi Home,Công ty Cổ phần Kiến Á,50-85 m²,Đã bàn giao," Cát Lái, Quận 2, Hồ Chí Minh",750.0,
+159,2025-02-11,Thủ Thiêm Green House,Đang cập nhật,36-58 m²,4/2023: Cất nóc," Đường Võ Chí Công, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",1040.0,
+160,2025-02-11,Citi Soho,Công ty CP Kiến Á,56-60 m²,Bàn giao năm 2019," Cát Lái, Quận 2, Hồ Chí Minh",781.0,
+161,2025-02-11,One Verandah Mapletree,Đang cập nhật,55-343 m²,Đã bàn giao," Bát Nàn,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",799.0,
+162,2025-02-11,Căn hộ Citi Alto,Công ty Cổ phần Kiến Á,,Đang mở bán," Nguyễn Thị Định, Cát Lái, Quận 2, Hồ Chí Minh",675.0,
+163,2025-02-11,Căn hộ Precia Quận 2,Công ty CP Đầu tư Bất Động Sản Rio Land,49-101 m²,Bàn giao tháng 4/2022," 09, Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh",333.0,1.0
+164,2025-02-11,Cantavil An Phú - Cantavil Premier,Công ty Cổ phần Daewon,75-150 m²,Đã bàn giao," Đường Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh",390.0,
+165,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," 403A, Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh.",744.0,2.0
+166,2025-02-11,The Galleria Residence,Công ty CP bất động sản SơnKim Land,49-345 m²,Đã bàn giao 3 tháp căn hộ cao 12 tầng," Đường Đại Lộ Vòng Cung, Phường An Khánh, Quận 2, Hồ Chí Minh.",456.0,
+167,2025-02-11,Q2 Thảo Điền,Đang cập nhật,,Bàn giao năm 2021," Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh",,
+168,2025-02-11,Cao ốc Thịnh Vượng,Công ty CP Đầu tư - Kinh Doanh Nhà (INTRESCO),,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",,
+169,2025-02-11,Empire City Thủ Thiêm,Công ty TNHH Keppel Land Việt Nam,,"Đã bàn giao phân khu Linden, Tilia, Cove"," Đường Mai Chí Thọ, Phường Thủ Thiêm,  Quận 2, Hồ Chí Minh",,
+170,2025-02-11,Blue Sky Tower,Công ty CP Tư vấn -Thương mại - Dịch vụ Địa ốc Hoàng Quân,47-117 m²,Đã bàn giao," Đường 63, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",260.0,
+171,2025-02-11,,,,," Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",,
+172,2025-02-11,Empire City Thủ Thiêm,Công ty TNHH Keppel Land Việt Nam,,"Đã bàn giao phân khu Linden, Tilia, Cove"," Đường Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh.",,
+173,2025-02-11,Palm Heights,Công ty TNHH Keppel Land Việt Nam,,Đã bàn giao," Đường Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh.",816.0,3.0
+174,2025-02-11,Sadora Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,,Đã bàn giao," Đường Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",,
+175,2025-02-11,Sarimi Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,83-283 m²,Đã bàn giao," An Lợi Đông, Quận 2, Hồ Chí Minh",368.0,
+176,2025-02-11,Sarica Condominium,Công ty CP Đầu tư Địa ốc Đại Quang Minh,101-147 m²,đã bàn giao," Đường Nguyễn Cơ Thạch, Phường An Lợi Đông, Quận 2, Hồ Chí Minh",175.0,
+177,2025-02-11,The Crest Residence,Đang cập nhật,,Đã bán hết," Đường Đại Lộ Vòng Cung, Phường An Khánh, Quận 2, Hồ Chí Minh",468.0,3.0
+178,2025-02-11,Tropic Garden,Novaland Group,,Đã bàn giao," Đường 66, Phường Thảo Điền, Quận 2, Hồ Chí Minh",1008.0,5.0
+179,2025-02-11,Cantavil An Phú - Cantavil Premier,Công ty Cổ phần Daewon,75-150 m²,Đã bàn giao," Đường Số 25, Phường An Phú, Quận 2, Hồ Chí Minh",390.0,
+180,2025-02-11,Diamond Island,Kusto Home,,Đã bàn giao," Bình Trưng Tây, Quận 2, Hồ Chí Minh",1275.0,6.0
+181,2025-02-11,Cao ốc An Khang,Công ty CP Đầu tư - Kinh Doanh Nhà (INTRESCO),,Đã bàn giao," Đường 19, Phường An Phú, Quận 2, Hồ Chí Minh.",288.0,2.0
+182,2025-02-11,The Crest Residence,Đang cập nhật,,Đã bán hết," Đại Lộ Vòng Cung, An Khánh, Quận 2, Hồ Chí Minh",468.0,3.0
+183,2025-02-11,The Ascent,Công ty CP Đầu tư Địa ốc Tiến Phát,67-99 m²,đã bàn giao," 58, Đường Quốc Hương, Phường Thảo Điền, Quận 2, Hồ Chí Minh",280.0,2.0
+184,2025-02-11,PetroVietnam Landmark,Công ty CP Địa ốc Dầu khí,,Đang cập nhật tiến độ," Đường Tỉnh lộ 25B, Phường An Phú, Quận 2, Hồ Chí Minh",,
+185,2025-02-11,The Ascent,Công ty CP Đầu tư Địa ốc Tiến Phát,67-99 m²,đã bàn giao," Quốc Hương, Thảo Điền, Quận 2, Hồ Chí Minh",280.0,2.0
+186,2025-02-11,Căn hộ Precia Quận 2,Công ty CP Đầu tư Bất Động Sản Rio Land,49-101 m²,Bàn giao tháng 4/2022," số 24, Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh",333.0,1.0
+187,2025-02-11,Eaton Park,Công ty Cổ phần Gamuda Land Việt Nam,38-98 m²,Đang mở bán," Mai Chí Thọ, An Phú, Quận 2, Hồ Chí Minh",2000.0,6.0
+188,2025-02-11,The Nassim Thảo Điền,Công ty CP bất động sản SơnKim Land,,Đã bàn giao," Số 30, Đường 11, Phường Thảo Điền, Quận 2, Hồ Chí Minh",238.0,4.0
+189,2025-02-11,Diamond Island,Kusto Home,,Đã bàn giao," Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh.",1275.0,6.0
+190,2025-02-11,Gateway Thảo Điền,Công ty CP bất động sản SơnKim Land,48-96 m²,Đã bàn giao," Xa Lộ Hà Nội, Thảo Điền, Quận 2, Hồ Chí Minh",546.0,4.0
+191,2025-02-11,Feliz En Vista,CapitaLand Development (Việt Nam),,Đã bàn giao," Đường Trương Văn Bang, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1127.0,4.0
+192,2025-02-11,The River Thủ Thiêm,Công Ty Cổ phần Phát triển Bất động sản Refico,57-185 m²,Đã bàn giao," Đường Trần Bạch Đằng, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",525.0,3.0
+193,2025-02-11,Thủ Thiêm Dragon,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," Đường Quách Giai, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",,
+194,2025-02-11,Thủ Thiêm Dragon,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," số 55, Đường Quách Giai, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",,
+195,2025-02-11,Thủ Thiêm Dragon,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," Số 55, Đường Quách Giai, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",,
+196,2025-02-11,The CBD Premium Home,Công ty CP Xây dựng Phước Thành,64-80 m²,Đã bàn giao," Đồng Văn Cống,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",620.0,3.0
+197,2025-02-11,Palm Heights,Công ty TNHH Keppel Land Việt Nam,,Đã bàn giao," Đường Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh",816.0,3.0
+198,2025-02-11,La Astoria,Công ty CP Đầu tư Xây dựng An Gia Hưng,,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây,  Quận 2, Hồ Chí Minh",622.0,3.0
+199,2025-02-11,River Garden,Công ty TNHH Indochina Land,,Bàn giao quý 2/2015," Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",210.0,1.0
+200,2025-02-11,Cao ốc An Khang,Công ty CP Đầu tư - Kinh Doanh Nhà (INTRESCO),,Đã bàn giao," Số 19, An Phú, Quận 2, Hồ Chí Minh",288.0,2.0
+201,2025-02-11,,,,," Quận 2, Hồ Chí Minh",,
+202,2025-02-11,Sarica Condominium,Công ty CP Đầu tư Địa ốc Đại Quang Minh,101-147 m²,đã bàn giao," Nguyễn Cơ Thạch, An Lợi Đông, Quận 2, Hồ Chí Minh",175.0,
+203,2025-02-11,Thủ Thiêm Star,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",,
+204,2025-02-11,Vista Verde,CapitaLand Development (Việt Nam),45-318 m²,Đã bàn giao," Số 1, Đường Phan Văn Đáng, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",1152.0,4.0
+205,2025-02-11,PetroVietnam Landmark,Công ty CP Địa ốc Dầu khí,,Đang cập nhật tiến độ," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",,
+206,2025-02-11,Sarimi Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,83-283 m²,Đã bàn giao," Số 74, Đường Nguyễn Cơ Thạch, Phường An Lợi Đông, Quận 2, Hồ Chí Minh",368.0,
+207,2025-02-11,Citi Home,Công ty Cổ phần Kiến Á,50-85 m²,Đã bàn giao," Phường Cát Lái, Quận 2, Hồ Chí Minh",750.0,
+208,2025-02-11,The Sun Avenue,Novaland Group,,Đã bàn giao," 28, Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",3000.0,8.0
+209,2025-02-11,The Opera Residence,Đang cập nhật,,Đang mở bán," Đường Đại Lộ Vòng Cung, Phường Thủ Thiêm,  Quận 2, Hồ Chí Minh",646.0,2.0
+210,2025-02-11,Hoàng Anh River View,Công ty CP Hoàng Anh Gia Lai,138 - 177 m²,Đã bàn giao," Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",580.0,3.0
+211,2025-02-11,The River Thủ Thiêm,Công Ty Cổ phần Phát triển Bất động sản Refico,57-185 m²,Đã bàn giao," Đường Nguyễn Cơ Thạch, Phường An Khánh, Quận 2, Hồ Chí Minh.",525.0,3.0
+212,2025-02-11,PetroVietnam Landmark,Công ty CP Địa ốc Dầu khí,,Đang cập nhật tiến độ," 65, Đường Tỉnh lộ 25B, Phường An Phú, Quận 2, Hồ Chí Minh",,
+213,2025-02-11,Zeit River Thủ Thiêm,Công ty GS Engineering & Construction,50-140 m²,23/7/2023 mở bán tiếp GĐ2," Nguyễn Cơ Thạch, An Khánh, Quận 2, Hồ Chí Minh",300.0,2.0
+214,2025-02-11,Lexington Residence,Novaland Group,,Bàn giao tháng 3/2016," 67, Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",1312.0,5.0
+215,2025-02-11,Thủ Thiêm Dragon,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," 55, Đường Quách Giai, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",,
+216,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," số 403A, Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",744.0,2.0
+217,2025-02-11,The Global City,Masterise Homes,,Đang mở bán," Phường An Phú, Quận 2, Hồ Chí Minh.",,
+218,2025-02-11,Vista Verde,CapitaLand Development (Việt Nam),45-318 m²,Đã bàn giao," Số 2, Đường Phan Văn Đáng, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1152.0,4.0
+219,2025-02-11,Cantavil An Phú - Cantavil Premier,Công ty Cổ phần Daewon,75-150 m²,Đã bàn giao," Xa Lộ Hà Nội, An Phú, Quận 2, Hồ Chí Minh",390.0,
+220,2025-02-11,Tái định cư Bình Khánh,Công ty TNHH Keppel Land Việt Nam,51-84 m²,Đã bàn giao," Đường 1, Phường Bình Khánh, Quận 2, Hồ Chí Minh",1844.0,
+221,2025-02-11,Tái định cư Bình Khánh,Công ty TNHH Keppel Land Việt Nam,51-84 m²,Đã bàn giao," Phường An Phú, Quận 2, Hồ Chí Minh",1844.0,
+222,2025-02-11,An Lộc  - An Phúc,Công ty TNHH Đầu tư Thương mại Địa ốc Việt,,Đã bàn giao," Nguyễn Hoàng, An Phú, Quận 2, Hồ Chí Minh",,
+223,2025-02-11,Diamond Island,Kusto Home,,Đã bàn giao," Đường 104A, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",1275.0,6.0
+224,2025-02-11,Victoria Village,Novaland Group,,Đang mở bán," Đồng Văn Cống,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1136.0,
+225,2025-02-11,Chung cư Bộ Công An,Công ty CP Đầu tư Phú Cường,,Đã bàn giao," Đường 3, Phường Bình An, Quận 2, Hồ Chí Minh.",1274.0,3.0
+226,2025-02-11,Thủ Thiêm Dragon,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," Đường Quách Giai, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",,
+227,2025-02-11,Thủ Thiêm Dragon,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," số 55, Đường Quách Giai, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",,
+228,2025-02-11,Thủ Thiêm Lakeview,Công ty CP đầu tư hạ tầng kỹ thuật TP. Hồ Chí Minh,88-162 m²,Đã bàn giao," Đường Tố Hữu, Phường An Khánh, Quận 2, Hồ Chí Minh",4500.0,
+229,2025-02-11,D'Edge Thảo Điền,CapitaLand Development (Việt Nam),63-256 m²,Đã bàn giao," Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Hồ Chí Minh",273.0,2.0
+230,2025-02-11,The Metropole Thủ Thiêm,Công ty CP bất động sản SơnKim Land,,Đang bán giai đoạn 4 - The OpusK," An Khánh, Quận 2, Hồ Chí Minh",1300.0,5.0
+231,2025-02-11,Citi Home,Công ty Cổ phần Kiến Á,50-85 m²,Đã bàn giao," Đường 35CL, Phường Cát Lái, Quận 2, Hồ Chí Minh",750.0,
+232,2025-02-11,The CBD Premium Home,Công ty CP Xây dựng Phước Thành,64-80 m²,Đã bàn giao," Đường Số 7, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",620.0,3.0
+233,2025-02-11,Feliz En Vista,CapitaLand Development (Việt Nam),,Đã bàn giao," Đồng Văn Cống,  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1127.0,4.0
+234,2025-02-11,Căn hộ Bình Khánh,Công ty CP Đức Khải,50-112 m²,Đã bàn giao," Mai Chí Thọ, An Phú, Quận 2, Hồ Chí Minh",1844.0,10.0
+235,2025-02-11,The Metropole Thủ Thiêm,Công ty CP bất động sản SơnKim Land,,Đang bán giai đoạn 4 - The OpusK," 20 Nguyễn Thiện Thành, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",1300.0,5.0
+236,2025-02-11,Gateway Thảo Điền,Công ty CP bất động sản SơnKim Land,48-96 m²,Đã bàn giao," 177, Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh",546.0,4.0
+237,2025-02-11,The Vista An Phú,CapitaLand Development (Việt Nam),101 - 221 m²,Đã bàn giao," 628C, Đường Xa Lộ Hà Nội, Phường An Phú, Quận 2, Hồ Chí Minh",850.0,5.0
+238,2025-02-11,Căn hộ DEFINE,CapitaLand Development (Việt Nam),194-287 m²,Sắp bàn giao," Đường Số 60 - TML, Phường  Thạnh Mỹ Lợi,  Quận 2, Hồ Chí Minh",88.0,1.0
+239,2025-02-11,Căn hộ Citi Grand,Công ty Cổ phần Kiến Á,,Đang mở bán," Nguyễn Thị Định, Cát Lái, Quận 2, Hồ Chí Minh",666.0,2.0
+240,2025-02-11,Căn hộ Precia Quận 2,Công ty CP Đầu tư Bất Động Sản Rio Land,49-101 m²,Bàn giao tháng 4/2022," 21, Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh",333.0,1.0
+241,2025-02-11,Empire City Thủ Thiêm,Công ty TNHH Keppel Land Việt Nam,,"Đã bàn giao phân khu Linden, Tilia, Cove","  Quận 2, Hồ Chí Minh",,
+242,2025-02-11,The Sun Avenue,Novaland Group,,Đã bàn giao," số 28, Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",3000.0,8.0
+243,2025-02-11,Thảo Điền Green,Công ty Cổ phần Đầu tư Bất động sản SIC,54-400 m²,Bàn giao ngày 2/8/2023," số 192, Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",204.0,1.0
+244,2025-02-11,An Phú - An Khánh,Tổng công ty Địa ốc Sài Gòn Resco,,Đã bàn giao," Đường Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh",,
+245,2025-02-11,Kris Vue,CapitaLand Development (Việt Nam),48-115 m²,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",128.0,1.0
+246,2025-02-11,Victoria Village,Novaland Group,,Đang mở bán," Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",1136.0,
+247,2025-02-11,Chung cư Petroland Quận 2,Công ty Cổ phần Đầu tư Hạ tầng và Đô thị Dầu khí,,Đã bàn giao," Đường 62, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",,
+248,2025-02-11,Paris Hoàng Kim,Đang cập nhật,57-99 m²,5/2023: Đang bán 100 căn cuối," Lương Định Của, Bình Khánh, Quận 2, Hồ Chí Minh",417.0,2.0
+249,2025-02-11,PetroVietnam Landmark,Công ty CP Địa ốc Dầu khí,,Đang cập nhật tiến độ," Mai Chí Thọ, An Phú, Quận 2, Hồ Chí Minh",,
+250,2025-02-11,Căn hộ DEFINE,CapitaLand Development (Việt Nam),194-287 m²,Sắp bàn giao," Đường Đặng Như Mai, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",88.0,1.0
+251,2025-02-11,Waterina Suites,Đang cập nhật,,Đã bàn giao," Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",,
+252,2025-02-11,Căn hộ Citi Alto,Công ty Cổ phần Kiến Á,,Đang mở bán," Đường Nguyễn Thị Định, Phường Cát Lái, Quận 2, Hồ Chí Minh.",675.0,
+253,2025-02-11,La Astoria,Công ty CP Đầu tư Xây dựng An Gia Hưng,,Đã bàn giao," Số 383, Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",622.0,3.0
+254,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," 403A, Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",744.0,2.0
+255,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh.",744.0,2.0
+256,2025-02-11,PetroVietnam Landmark,Công ty CP Địa ốc Dầu khí,,Đang cập nhật tiến độ," Tỉnh lộ 25B, An Phú, Quận 2, Hồ Chí Minh",,
+257,2025-02-11,One Verandah Mapletree,Đang cập nhật,55-343 m²,Đã bàn giao," Đường Bát Nàn, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",799.0,
+258,2025-02-11,River Garden,Công ty TNHH Indochina Land,,Bàn giao quý 2/2015," Đường Nguyễn Văn Hưởng, Phường Thảo Điền,  Quận 2, Hồ Chí Minh",210.0,1.0
+259,2025-02-11,Homyland,Công ty CP Xây dựng - Giao thông - Thương mại Bảo Sơn,,Đã bàn giao," Nguyễn Duy Trinh, Bình Trưng Tây, Quận 2, Hồ Chí Minh",152.0,1.0
+260,2025-02-11,Sarina Condominium,Đang cập nhật,,Đã bàn giao," Đường Mai Chí Thọ, Phường An Lợi Đông, Quận 2, Hồ Chí Minh.",,
+261,2025-02-11,River Garden,Công ty TNHH Indochina Land,,Bàn giao quý 2/2015," 170, Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",210.0,1.0
+262,2025-02-11,Lexington Residence,Novaland Group,,Bàn giao tháng 3/2016," số 67, Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",1312.0,5.0
+263,2025-02-11,Estella Heights,Công ty TNHH Keppel Land Việt Nam,,Đã bàn giao," Song Hành, An Phú, Quận 2, Hồ Chí Minh",872.0,4.0
+264,2025-02-11,Căn hộ The Albany,Công ty CP bất động sản SơnKim Land,,Đã bàn giao," Số 2, Đường Lê Thước, Phường Thảo Điền, Quận 2, Hồ Chí Minh",,
+265,2025-02-11,Feliz En Vista,CapitaLand Development (Việt Nam),,Đã bàn giao," Đường Phan Văn Đáng, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",1127.0,4.0
+266,2025-02-11,Căn hộ D’Lusso,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Đã bàn giao," Đường Nguyễn Thị Định, Phường An Phú,  Quận 2, Hồ Chí Minh",600.0,
+267,2025-02-11,Sarimi Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,83-283 m²,Đã bàn giao," 74, Đường Nguyễn Cơ Thạch, Phường An Lợi Đông, Quận 2, Hồ Chí Minh",368.0,
+268,2025-02-11,An Lộc  - An Phúc,Công ty TNHH Đầu tư Thương mại Địa ốc Việt,,Đã bàn giao," Đường Nguyễn Hoàng, Phường An Phú, Quận 2, Hồ Chí Minh",,
+269,2025-02-11,Masteri Thảo Điền,Masterise Homes,45-100 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh.",3021.0,5.0
+270,2025-02-11,Masteri Thảo Điền,Masterise Homes,45-100 m²,Đã bàn giao," 159, Đường Võ Nguyên Giáp, Phường Thảo Điền, Quận 2, Hồ Chí Minh",3021.0,5.0
+271,2025-02-11,Masteri Thảo Điền,Masterise Homes,45-100 m²,Đã bàn giao," Đường Võ Nguyên Giáp, Phường Thảo Điền, Quận 2, Hồ Chí Minh",3021.0,5.0
+272,2025-02-11,Thủ Thiêm Dragon,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",,
+273,2025-02-11,Cao ốc Thịnh Vượng,Công ty CP Đầu tư - Kinh Doanh Nhà (INTRESCO),,Đã bàn giao," Bình Trưng Đông, Quận 2, Hồ Chí Minh",,
+274,2025-02-11,De Capella,Công ty CP Quốc Cường Gia Lai,51-102 m²,Đã bàn giao," Phố Lương Định Của, Phường Bình Khánh, Quận 2, Hồ Chí Minh",380.0,2.0
+275,2025-02-11,Datxanhhomes Riverside,Đang cập nhật,,Đang cập nhật tiến độ," Đường Song Hành, Phường An Phú, Quận 2, Hồ Chí Minh",3175.0,12.0
+276,2025-02-11,Thủ Thiêm Xanh,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," Đường 63, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",,
+277,2025-02-11,Gateway Thảo Điền,Công ty CP bất động sản SơnKim Land,48-96 m²,Đã bàn giao," Đường Xa Lộ Hà Nội, Phường Thảo Điền,  Quận 2, Hồ Chí Minh",546.0,4.0
+278,2025-02-11,Feliz En Vista,CapitaLand Development (Việt Nam),,Đã bàn giao," Đường Đồng Văn Cống, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",1127.0,4.0
+279,2025-02-11,Zeit River Thủ Thiêm,Công ty GS Engineering & Construction,50-140 m²,23/7/2023 mở bán tiếp GĐ2," Đường Đại Lộ Vòng Cung, Phường An Khánh, Quận 2, Hồ Chí Minh",300.0,2.0
+280,2025-02-11,Khu dân cư Thạnh Mỹ Lợi,Công ty Quản lý và Phát triển Nhà Quận 2,,Đã bàn giao," Đường Trương Gia Mô, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",,
+281,2025-02-11,The Estella,Đang cập nhật,,Đã bàn giao," Đường 25, Phường An Phú, Quận 2, Hồ Chí Minh",1500.0,4.0
+282,2025-02-11,Khu dân cư Thạnh Mỹ Lợi,Công ty Quản lý và Phát triển Nhà Quận 2,,Đã bàn giao," Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",,
+283,2025-02-11,Căn hộ Precia Quận 2,Công ty CP Đầu tư Bất Động Sản Rio Land,49-101 m²,Bàn giao tháng 4/2022," số 21, Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh",333.0,1.0
+284,2025-02-11,The Opera Residence,Đang cập nhật,,Đang mở bán," Đường D6, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",646.0,2.0
+285,2025-02-11,D'Edge Thảo Điền,CapitaLand Development (Việt Nam),63-256 m²,Đã bàn giao," 207, Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",273.0,2.0
+286,2025-02-11,Sala Đại Quang Minh,Công ty CP Đầu tư Địa ốc Đại Quang Minh,,Đã bàn giao," Đường Mai Chí Thọ, Phường An Lợi Đông, Quận 2, Hồ Chí Minh",,
+287,2025-02-11,Eaton Park,Công ty Cổ phần Gamuda Land Việt Nam,38-98 m²,Đang mở bán," 94A, Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",2000.0,6.0
+288,2025-02-11,Homyland 2,Công ty CP Xây dựng - Giao thông - Thương mại Bảo Sơn,60-110 m²,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",425.0,
+289,2025-02-11,Kris Vue,CapitaLand Development (Việt Nam),48-115 m²,Đã bàn giao," 537, Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",128.0,1.0
+290,2025-02-11,The Krista,CapitaLand Development (Việt Nam),70-152 m²,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh.",344.0,2.0
+291,2025-02-11,Palm Heights,Công ty TNHH Keppel Land Việt Nam,,Đã bàn giao," Song Hành, An Phú, Quận 2, Hồ Chí Minh",816.0,3.0
+292,2025-02-11,Thủ Thiêm Sky,Công ty CP Đầu tư Thủ Thiêm,40-69 m²,Đã bàn giao," 188, Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",304.0,2.0
+293,2025-02-11,The CBD Premium Home,Công ty CP Xây dựng Phước Thành,64-80 m²,Đã bàn giao," Số 125, Đường Đồng Văn Cống, Phường  Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",620.0,3.0
+294,2025-02-11,Eco Smart City,Lotte Group,55-191 m²,Đang cập nhật tiến độ," Phố Lương Định Của, Phường An Khánh,  Quận 2, Hồ Chí Minh",,11.0
+295,2025-02-11,Masteri An Phú,Masterise Homes,,Đã bàn giao," 179, Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh",900.0,2.0
+296,2025-02-11,Eco Smart City,Lotte Group,55-191 m²,Đang cập nhật tiến độ," Đường Tố Hữu, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",,11.0
+297,2025-02-11,Thủ Thiêm Xanh,Công ty CP Đầu tư Thủ Thiêm,,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh.",,
+298,2025-02-11,The Sun Avenue,Novaland Group,,Đã bàn giao," 28 Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",3000.0,8.0
+299,2025-02-11,Eco Smart City,Lotte Group,55-191 m²,Đang cập nhật tiến độ," Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",,11.0
+300,2025-02-11,Lexington Residence,Novaland Group,,Bàn giao tháng 3/2016," Mai Chí Thọ, An Phú, Quận 2, Hồ Chí Minh",1312.0,5.0
+301,2025-02-11,Paris Hoàng Kim,Đang cập nhật,57-99 m²,5/2023: Đang bán 100 căn cuối," 31, Đường Số 1, Phường Bình Khánh, Quận 2, Hồ Chí Minh",417.0,2.0
+302,2025-02-11,The Estella,Đang cập nhật,,Đã bàn giao," Xa Lộ Hà Nội, An Phú, Quận 2, Hồ Chí Minh",1500.0,4.0
+303,2025-02-11,The CBD Premium Home,Công ty CP Xây dựng Phước Thành,64-80 m²,Đã bàn giao," Đường Đồng Văn Cống, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh.",620.0,3.0
+304,2025-02-11,Thủ Thiêm Sky,Công ty CP Đầu tư Thủ Thiêm,40-69 m²,Đã bàn giao," 188/1, Đường Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, Hồ Chí Minh",304.0,2.0
+305,2025-02-11,Masteri Thảo Điền,Masterise Homes,45-100 m²,Đã bàn giao," Võ Nguyên Giáp, Thảo Điền, Quận 2, Hồ Chí Minh",3021.0,5.0
+306,2025-02-11,An Phú - An Khánh,Tổng công ty Địa ốc Sài Gòn Resco,,Đã bàn giao," Phường An Phú, Quận 2, Hồ Chí Minh.",,
+307,2025-02-11,Căn hộ Bình Khánh,Công ty CP Đức Khải,50-112 m²,Đã bàn giao," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh.",1844.0,10.0
+308,2025-02-11,Căn hộ Bình Khánh,Công ty CP Đức Khải,50-112 m²,Đã bàn giao," Đường Mai Chí Thọ, Phường An Khánh, Quận 2, Hồ Chí Minh",1844.0,10.0
+309,2025-02-11,Căn hộ Bình Khánh,Công ty CP Đức Khải,50-112 m²,Đã bàn giao," Đường Mai Chí Thọ, Phường An Khánh  Quận 2, Hồ Chí Minh",1844.0,10.0
+310,2025-02-11,Căn hộ D’Lusso,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Đã bàn giao," 9, Đường Nguyễn Thị Định, Phường An Phú, Quận 2, Hồ Chí Minh.",600.0,
+311,2025-02-11,PetroVietnam Landmark,Công ty CP Địa ốc Dầu khí,,Đang cập nhật tiến độ," số 69, Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",,
+312,2025-02-11,Căn hộ Mozac Thảo Điền,Đang cập nhật,,Đang cập nhật tiến độ," Đường 38, Phường Thảo Điền, Quận 2, Hồ Chí Minh.",,
+313,2025-02-11,Căn hộ Citi Alto,Công ty Cổ phần Kiến Á,,Đang mở bán," đường 33CL, Phường Cát Lái, Quận 2, Hồ Chí Minh",675.0,
+314,2025-02-11,Homyland 2,Công ty CP Xây dựng - Giao thông - Thương mại Bảo Sơn,60-110 m²,Đã bàn giao," 307, Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",425.0,
+315,2025-02-11,Homyland Riverside,Công ty TNHH Nông sản Tân Hoàn Mỹ,74 - 108 m²,Bàn giao năm 2019," 402, Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",744.0,2.0
+316,2025-02-11,Căn hộ The Albany,Công ty CP bất động sản SơnKim Land,,Đã bàn giao," 2, Đường Lê Phước, Phường Thảo Điền, Quận 2, Hồ Chí Minh",,
+317,2025-02-11,Citi Home,Công ty Cổ phần Kiến Á,50-85 m²,Đã bàn giao," Phường Cát Lái, Quận 2, Hồ Chí Minh.",750.0,
+318,2025-02-11,Citi Home,Công ty Cổ phần Kiến Á,50-85 m²,Đã bàn giao," Đường 71, Phường Cát Lái, Quận 2, Hồ Chí Minh",750.0,
+319,2025-02-11,Căn hộ Bình Khánh,Công ty CP Đức Khải,50-112 m²,Đã bàn giao," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",1844.0,10.0
+320,2025-02-11,PARCSpring,CapitaLand Development (Việt Nam),,Đã bàn giao," Đường Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",394.0,3.0
+321,2025-02-11,Lumiere Riverside,Công ty CP Ðịa ốc Thảo Ðiền,,Đang mở bán," Đường Võ Nguyên Giáp, Phường An Phú, Quận 2, Hồ Chí Minh.",,2.0
+322,2025-02-11,De Capella,Công ty CP Quốc Cường Gia Lai,51-102 m²,Đã bàn giao," 116, Phố Lương Định Của, Phường An Khánh, Quận 2, Hồ Chí Minh",380.0,2.0
+323,2025-02-11,Tái định cư Bình Khánh,Công ty TNHH Keppel Land Việt Nam,51-84 m²,Đã bàn giao," Phường Bình Khánh, Quận 2, Hồ Chí Minh",1844.0,
+324,2025-02-11,Centana Thủ Thiêm,Công ty TNHH Xây dựng và Kinh doanh Nhà Điền Phúc Thành,,Bàn giao tháng 12/2018," Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh.",618.0,2.0
+325,2025-02-11,The Galleria Residence,Công ty CP bất động sản SơnKim Land,49-345 m²,Đã bàn giao 3 tháp căn hộ cao 12 tầng," Đường Trần Bạch Đằng, Phường An Khánh, Quận 2, Hồ Chí Minh",456.0,
+326,2025-02-11,Homyland,Công ty CP Xây dựng - Giao thông - Thương mại Bảo Sơn,,Đã bàn giao," 202, Đường Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",152.0,1.0
+327,2025-02-11,Sarimi Sala,Công ty CP Đầu tư Địa ốc Đại Quang Minh,83-283 m²,Đã bàn giao," Phường An Lợi Đông, Quận 2, Hồ Chí Minh.",368.0,
+328,2025-02-11,Lumiere Riverside,Công ty CP Ðịa ốc Thảo Ðiền,,Đang mở bán," Số 275 Đường Võ Nguyên Giáp, Khu phố 15, Phường An Phú, Quận 2, Hồ Chí Minh",,2.0
+329,2025-02-11,Eco Smart City,Lotte Group,55-191 m²,Đang cập nhật tiến độ," Số 1, Đường Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",,11.0
+330,2025-02-11,Eco Smart City,Lotte Group,55-191 m²,Đang cập nhật tiến độ," Số 1 Đường Mai Chí Thọ, Phường Thủ Thiêm, Quận 2, Hồ Chí Minh",,11.0
