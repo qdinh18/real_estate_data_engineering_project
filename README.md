@@ -2,6 +2,24 @@
 
 This project implements a full ETL pipeline for real estate data using **Apache Airflow**. The pipeline scrapes data from the **batdongsan.com** website, processes it, and loads it into multiple storage destinations, including **PostgreSQL**, **AWS S3**, and **AWS Redshift**.
 
+## Architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot 2025-02-11 at 21 39 46](https://github.com/user-attachments/assets/49e01dd9-e32e-41eb-8605-c707dca18bdf)
+
 ## Project Structure
 
 ```plaintext
@@ -74,23 +92,6 @@ README.md              # Project overview and instructions
 
 
 
-## Architecture
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Screenshot 2025-02-11 at 21 39 46](https://github.com/user-attachments/assets/49e01dd9-e32e-41eb-8605-c707dca18bdf)
 
 
 
