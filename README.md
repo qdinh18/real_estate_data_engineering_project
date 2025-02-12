@@ -42,7 +42,7 @@ README.md              # Project overview and instructions
 
 3. Access the Airflow web UI to monitor DAGs and tasks.
 
-## DATA MODEL
+## Data Model
 
 
 
@@ -74,7 +74,7 @@ README.md              # Project overview and instructions
 
 
 
-## WORKFLOW
+## Architecture
 
 
 
