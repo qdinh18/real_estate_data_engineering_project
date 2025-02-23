@@ -1,0 +1,9 @@
+scrapy
+curl_cffi
+pandas
+numpy
+psycopg2-binary
+astronomer-cosmos==1.2.1
+apache-airflow-providers-common-sql
+dbt-postgres==1.5.0
+dbt-redshift==1.5.0
