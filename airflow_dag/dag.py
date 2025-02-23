@@ -15,7 +15,7 @@ from load_to_redshift.load_tables import upload_to_redshift, create_redshift_tab
 
 default_args = {
     'owner': 'QuyenDinh',
-    'start_date': datetime(2025, 2, 4),
+    'start_date': datetime(2025, 2, 10),
     'retries': 1,
     'retry_delay': timedelta(minutes = 1),
     'depends_on_past': False,
