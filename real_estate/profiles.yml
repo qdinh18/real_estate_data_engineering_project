@@ -1,0 +1,33 @@
+real_estate:  
+  target: dev  
+  
+  outputs:
+    # ========================
+    # POSTGRESQL
+    # ========================
+    dev_postgres:
+      type: postgres
+      host: localhost
+      user: airflow
+      port: 5432
+      password: airflow
+      dbname: re
+      schema: public
+      threads: 5
+
+    # ========================
+    # AWS REDSHIFT
+    # ========================
+    dev_redshift:
+      type: redshift
+      host: quyendinh-redshift-workgroup.841162668345.ap-southeast-2.redshift-serverless.amazonaws.com
+      port: 5439
+      user: quyendinh  
+      password: xxxx
+      dbname: dev
+      schema: public
+      threads: 5
+      connect_timeout: 100  # Connection timeout in seconds
+      ra3_node: true  # Enable RA3 node optimizations
+      sslmode: verify-full
+      region: ap-southeast-2 

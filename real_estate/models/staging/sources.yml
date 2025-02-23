@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: real_estate_raw
+    schema: public
+    tables:
+      - name: staging_table

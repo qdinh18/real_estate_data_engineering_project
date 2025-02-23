@@ -1,0 +1,80 @@
+version: 2
+
+models:
+  - name: dim_broker
+    description: "Dimension table for property brokers"
+    columns:
+      - name: broker_id
+        description: "Unique identifier for the broker"
+        tests:
+          - not_null
+          - unique
+      - name: update_date
+        tests:
+          - not_null
+      - name: broker_name
+        tests:
+          - not_null
+      - name: broker_rank
+
+  - name: dim_project
+    description: "Dimension table for real estate projects"
+    columns:
+      - name: project_id
+        tests:
+          - not_null
+          - unique
+      - name: update_date
+        tests:
+          - not_null
+      - name: project_name
+      - name: investor
+      - name: project_area_range
+      - name: project_status
+      - name: address
+      - name: number_of_apartments
+      - name: number_of_buildings
+
+  - name: dim_post
+    description: "Dimension table for property listings"
+    columns:
+      - name: post_id
+        tests:
+          - not_null
+          - unique
+      - name: update_date
+        tests:
+          - not_null
+      - name: title
+        tests:
+          - not_null
+      - name: url
+        tests:
+          - not_null
+      - name: price
+      - name: posted_date
+      - name: expired_date
+
+  - name: fact_all_apartment
+    description: "Fact table containing apartment transaction details"
+    columns:
+      - name: post_id
+        tests:
+          - not_null
+      - name: update_date
+        tests:
+          - not_null
+      - name: broker_id
+        tests:
+          - not_null
+      - name: project_id
+        tests:
+          - not_null
+      - name: price
+      - name: price_unit
+      - name: price_per_m²
+      - name: price_per_m²_unit
+      - name: area
+      - name: area_unit
+      - name: bedroom
+      - name: bathroom
