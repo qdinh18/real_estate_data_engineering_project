@@ -14,6 +14,10 @@ Automated workflow for scraping, processing, and loading real estate data to Pos
     create_rs-->upload_s3-->load_rs-->dbt_rs[RS dbt]
     dbt_pg & dbt_rs-->end
 
+## Graph
+
+![Screenshot 2025-02-23 at 14 13 08](https://github.com/user-attachments/assets/c01f1c5f-7aec-4839-8e3b-da6c68fd5ddb)
+
 
 ## Key Tasks
 
